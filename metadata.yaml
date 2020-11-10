@@ -1,0 +1,30 @@
+_repo: Homage-to-John-Dryden-Three-Essays-on-Poetry-of-the-Seventeenth-Century_63547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, T. S. (Thomas Stearns)
+    alias: Eliot, Thomas Stearns
+    birthdate: 1888
+    deathdate: 1965
+    gutenberg_agent_id: '599'
+    url: http://www.gutenberg.org/2009/agents/599
+    wikipedia: https://en.wikipedia.org/wiki/T._S._Eliot
+description: ''
+gutenberg_issued: '2020-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63547'
+  lccn: '25014504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: '[The Hogarth Essays no. 4]'
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Intellectual life -- 17th century'
+- !lcsh 'English poetry -- Early modern, 1500-1700 -- History and criticism'
+- GITenberg
+tableOfContents: John Dryden -- The metaphysical poets -- Andrew Marvell.
+title: 'Homage to John Dryden: Three Essays on Poetry of the Seventeenth Century'
+url: http://www.gutenberg.org/ebooks/63547
