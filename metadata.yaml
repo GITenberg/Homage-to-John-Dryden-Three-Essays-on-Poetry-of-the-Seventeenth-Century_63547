@@ -1,5 +1,8 @@
 _repo: Homage-to-John-Dryden-Three-Essays-on-Poetry-of-the-Seventeenth-Century_63547
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63547-h/images/dryden_cover.jpg
 creator:
   author:
     agent_name: Eliot, T. S. (Thomas Stearns)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/599
     wikipedia: https://en.wikipedia.org/wiki/T._S._Eliot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63547#Homage-to-John-Dryden-Three-Essays-on-Poetry-of-the-Seventeenth-Century
 gutenberg_issued: '2020-10-25'
 gutenberg_type: Text
 identifiers:
